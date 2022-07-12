@@ -1,0 +1,115 @@
+FreePCB project report (default units = MM)
+============================================
+Project name: USB3_modified
+Project file: C:\Users\Rafael\Downloads\nanohub-family-sources\2-port USB 3.0 NanoHub\USB3_Modified\USB3_modified.fpc
+Default library folder: c:\program files (x86)\freepcb\lib
+
+Board statistics
+==============
+Number of copper layers: 2
+Number of board outlines: 1
+Board outline(s) size: X = 26.2 MM; Y = 34.2 MM
+Number of parts: 60
+Number of pins: 182 (30 through-hole, 152 SMT)
+Number of vias: 47
+Number of holes: 77
+
+Drill list
+==========
+NUMBER  DIAMETER
+------  --------
+    1   0.356 MM (14 MIL)
+    6   1.25 MM (49.2 MIL)
+   24   0.6 MM (23.6 MIL)
+   46   0.305 MM (12 MIL)
+
+Part list
+=========
+For parts on top: the angle is in degrees CCW, as viewed from the top
+For parts on the bottom: the angle is in degrees CCW, as viewed from the top
+All centroid coordinates are as viewed from the top
+
+REF  PACKAGE  VALUE               FOOTPRINT  PINS  HOLES    SIDE  ANGLE  CENT-X  CENT-Y  PIN1-X  PIN1-Y  GLUE-W  GLUE-X  GLUE-Y
+---  -------  -----               ---------  ----  -----    ----  -----  ------  ------  ------  ------  ------  ------  ------
+C10                                  C0402R     2      0     top    270    10.2    11.3    10.2    11.3   0.635    10.2    11.3
+C11                                  C0402R     2      0     top      0    16.3    17.3    16.3    17.3   0.635    16.3    17.3
+C12                                  C0402R     2      0     top     90     8.5    23.2     8.5    23.2   0.635     8.5    23.2
+C15                                  C0402R     2      0     top      0    16.3    15.7    16.3    15.7   0.635    16.3    15.7
+C16                                  C0402R     2      0     top    270     9.3    24.2     9.3    24.2   0.635     9.3    24.2
+C17                                  C0402R     2      0     top      0    16.3    16.5    16.3    16.5   0.635    16.3    16.5
+C18                                  C0402R     2      0     top    270    10.1    24.2    10.1    24.2   0.635    10.1    24.2
+C19                                  C0402R     2      0     top     90     9.4    10.3     9.4    10.3   0.635     9.4    10.3
+ C2                                  C0402R     2      0     top    270     5.6    13.3     5.6    13.3   0.635     5.6    13.3
+C20                                  C0402R     2      0     top     90     8.6    10.3     8.6    10.3   0.635     8.6    10.3
+C21                                  C0402R     2      0     top    315  16.188  25.178  16.188  25.178   0.635  16.188  25.178
+C22                                  C0402R     2      0     top    180    17.2    10.6    17.2    10.6   0.635    17.2    10.6
+C23                                  C0402R     2      0     top     90     2.6     8.3     2.6     8.3   0.635     2.6     8.3
+C24                                  C0402R     2      0     top      0    14.4    24.3    14.4    24.3   0.635    14.4    24.3
+C25                                  C0402R     2      0     top     90    16.8    21.9    16.8    21.9   0.635    16.8    21.9
+ C3                                  C0402R     2      0     top    180    15.1    10.1    15.1    10.1   0.635    15.1    10.1
+ C4                                  C0402R     2      0     top      0    14.1    12.5    14.1    12.5   0.635    14.1    12.5
+ C5                                  C0402R     2      0     top      0    14.1    13.7    14.1    13.7   0.635    14.1    13.7
+ C6                                  C0402R     2      0     top    270     6.9    11.5     6.9    11.5   0.635     6.9    11.5
+ C7                                  C0402R     2      0     top    180       4    17.8       4    17.8   0.635       4    17.8
+ C8                                  C0402R     2      0     top     90     6.6      21     6.6      21   0.635     6.6      21
+J10                             test_hook_s     1      1     top    180      10    25.4      10    25.4
+J11                             test_hook_s     1      1     top    180    18.3    10.6    18.3    10.6
+J12                             test_hook_s     1      1     top    180    18.3    17.8    18.3    17.8
+J13                             test_hook_s     1      1     top    180    14.8    25.4    14.8    25.4
+J14                             test_hook_s     1      1     top      0    18.3      19    18.3      19
+J15                             test_hook_s     1      1     top      0    18.3    16.6    18.3    16.6
+J16                             test_hook_s     1      1     top      0    18.3    15.4    18.3    15.4
+J17                             test_hook_s     1      1     top      0    11.2    25.4    11.2    25.4
+J18                             test_hook_s     1      1     top      0     7.3     8.8     7.3     8.8
+J19                             test_hook_s     1      1     top      0     8.5     8.8     8.5     8.8
+ J2                             test_hook_s     1      1     top    270     3.7     8.8     3.7     8.8
+J20                             test_hook_s     1      1     top      0     9.7     8.8     9.7     8.8
+J21                             test_hook_s     1      1  bottom    180    10.9     8.8    10.9     8.8
+J22                             test_hook_s     1      1     top      0    12.1     8.8    12.1     8.8
+J23                             test_hook_s     1      1     top      0     6.1     8.8     6.1     8.8
+J24                             test_hook_s     1      1     top      0     4.9     8.8     4.9     8.8
+J25                             test_hook_s     1      1     top      0    18.3    14.2    18.3    14.2
+ J3                             test_hook_s     1      1     top    180    18.3      13    18.3      13
+ J4                             test_hook_s     1      1     top    270    18.3    11.8    18.3    11.8
+ J5                             test_hook_s     1      1     top    180    12.4    25.4    12.4    25.4
+ J6                             test_hook_s     1      1     top    270    13.6    25.4    13.6    25.4
+ J7                             test_hook_s     1      1     top    180     6.4    25.4     6.4    25.4
+ J8                             test_hook_s     1      1     top      0     7.6    25.4     7.6    25.4
+ J9                             test_hook_s     1      1     top    180     8.8    25.4     8.8    25.4
+ K1                              usb3-micro    12      2     top     90    25.6    21.6  22.925   11.35
+ K2                              usb3-micro    12      2     top    180     3.8    32.7   14.05  30.025
+ K3                              usb3-micro    12      2     top      0    14.7     1.5    4.45   4.175
+ L1                                  L2x1.6     2      0     top      0     3.4    14.1   2.575    14.1   0.635     3.4    14.1
+ R1                                  R0402R     2      0     top    270     6.6   12.45     6.6   13.35   0.635     6.6   12.45
+ R2                                  R0402R     2      0     top     90     5.6   11.35     5.6   10.45   0.635     5.6   11.35
+ R3                                  R0402R     2      0     top     90     3.4   16.75     3.4   15.85   0.635     3.4   16.75
+ R4                                  R0402R     2      0     top    270     4.2   15.95     4.2   16.85   0.635     4.2   15.95
+ R5                                  R0402R     2      0     top     90    13.6   23.25    13.6   22.35   0.635    13.6   23.25
+ R6                                  R0402R     2      0     top    270    12.7   10.55    12.7   11.45   0.635    12.7   10.55
+ R7                                  R0402R     2      0     top     90     2.6   16.75     2.6   15.85   0.635     2.6   16.75
+ U1                                   TSMT6     6      0     top      0     2.6    10.6     2.6    10.6   0.635     2.6    10.6
+ U2                              DFN1010C-4     5      0     top    270    14.5    11.3  13.975  11.625   0.635    14.5    11.3
+ U3                  QFP50P900X900X120-49AM    49      0     top      0    10.1    17.2     5.8   19.95   0.635    10.1    17.2
+ X1                              crystal216     4      0     top     90    16.1    21.4    15.7   21.85   0.635    16.1    21.4
+
+Gerber file settings
+====================
+Include board outline: YES
+Include moires: NO
+Include layer description text: NO
+Include pilot holes: NO
+Connect SMT pins to copper areas: YES
+Use thermals for SMT pins: NO
+Use thermals for through-hole pins: NO
+Use thermals for vias: YES
+Make solder-mask cutouts for vias: YES
+Use 90-degree thermals for round pins: YES
+Copper to copper-fill clearance: 0.152 MM
+Hole-edge to copper-fill clearance: 0.152 MM
+Solder mask clearance: 0.025 MM
+Pilot hole diameter: 0.254 MM
+Minimum silkscreen line width: 0.127 MM
+Thermal relief line width: 0.356 MM
+Minimum annular ring width (pins): 0.178 MM
+Minimum annular ring width (vias): 0.127 MM
+Amount to shrink SMT pads for paste mask: 0.025 MM
