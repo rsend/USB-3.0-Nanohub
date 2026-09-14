@@ -1,7 +1,8 @@
 # USB-3.0-Nanohub
-Fixed version of Muxtronic's USB 3.0 Nanohub
 
 UPDATE September 2026: BOM added with manufacturer parts that can be purchased currently, in stock at Digikey. Check the comments in the BOM for details.
+
+Fixed version of Muxtronic's USB 3.0 Nanohub
 
 [Muxtronics.nl](https://muxtronics.nl) made some excellent miniature USB hubs for embedded systems and hackers. They used to be for sale on Tindie, but have been out of stock for a long time (based on the reviews, the last time anyone reviewed them was in 2019).
 
