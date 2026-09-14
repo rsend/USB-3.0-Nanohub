@@ -1,0 +1,14 @@
+Part type,Value / designation,Package,Quantity,Old Part number(s) / distributor code,Possible Digikey substitute,Reference designators,Notes
+Capacitor,"100 nF, 6.3 V",C0402R (0402),14,Farnell 1759380,CC0402KRX5R6BB104 ,"C1, C5, C6, C7, C8, C10, C11, C12, C15, C16, C17, C18, C19, C20",
+Capacitor,"4.7 µF, 6.3 V",C0402R (0402),4,Farnell 2426952,GRM155R61A475MEAAJ  ,"C2, C21, C22, C23",
+Capacitor,"1 µF, 6.3 V",C0402R (0402),2,Farnell 1759375,CL05A105KP5NNNC ,"C3, C4",
+Capacitor,10 pF,C0402R (0402),2,Farnell 1758947,GCM1555C1H100FA16D,"C24, C25",CHANGED to 10pF (from 18pF)
+Resistor,9.53 kΩ,R0402R (0402),4,Farnell 1803135,RC0402FR-079K53P,"R1, R2, R4, R6",
+Resistor,90.9 kΩ,R0402R (0402),1,Farnell 1803746,RC0402FR-0790K9L ,R3,
+Resistor,1 MΩ,R0402R (0402),1,Farnell 9239588,RC0402FR-071ML,R5,
+Crystal,24 MHz,crystal216,1,Farnell 1885626,ECS-240-12-37B-7KM-TR,X1,Updated crystal requires 10pF instead of 18pF load capacitors from above
+Inductor,Not specified,L2x1.6,1,Farnell 2451985,DFE201612E-4R7M=P2,L1,Updated to a better spec’d part
+Buck regulator,RT7285C,TSMT6,1,Farnell 2433105,RT7285CGJ6,U1,
+LDO regulator,NCP103; MIC5524,DFN1010C-4,1,Farnell 2454538,MIC5524-3.3YMT-TZ,U2,
+USB 3.0 hub IC,TUSB8020B,QFP50P900X900X120-49AM,1,Farnell 2455502,TUSB8020BIPHPRQ1,U3,
+USB 3 Micro connector,usb3-micro,usb3-micro,3,Farnell 2443131,KMMX-AB10-SMT1SB30TR,"K1, K2, K3","Used to be GCT USB3120-30-A (obsolete). Possible closest match is listed, if connectors are needed."
