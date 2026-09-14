@@ -1,6 +1,6 @@
 # USB-3.0-Nanohub
 
-UPDATE September 2026: BOM added with manufacturer parts that can be purchased currently, in stock at Digikey. Check the comments in the file for details.
+UPDATE September 2026: Original schematic (as image) and new BOM added with manufacturer parts that can be purchased currently, in stock at Digikey. Check the comments in the file for details on what was updated.
 
 Fixed version of Muxtronic's USB 3.0 Nanohub
 
